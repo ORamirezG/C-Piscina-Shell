@@ -1,0 +1,24 @@
+Last login: Tue Jul  4 13:33:55 on ttys001
+oramirez@c3r14s4 Documents % cat > midLS
+oramirez@c3r14s4 Documents % ls
+ex00	ex02	ex03	midLS
+oramirez@c3r14s4 Documents % ls -l
+total 0
+drwxr-xr-x   4 oramirez  2019  136 Jul  3 16:30 ex00
+drwxr-xr-x  10 oramirez  2019  340 Jul  3 16:14 ex02
+drwxr-xr-x   4 oramirez  2019  136 Jul  3 16:56 ex03
+-rw-r--r--   1 oramirez  2019    0 Jul  4 13:41 midLS
+oramirez@c3r14s4 Documents % ls -tm
+midLS, ex03, ex00, ex02
+oramirez@c3r14s4 Documents %  ls -ptm
+midLS, ex03/, ex00/, ex02/
+oramirez@c3r14s4 Documents % 
+
+
+
+
+
+
+
+
+
